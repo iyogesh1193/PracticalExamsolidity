@@ -1,0 +1,6 @@
+3
+    Global variabe in javascript we have to declare a var, const or let variable outside of any block or function, inside the globle scope. 
+the kryword Global is also used to create or declare a global variable inside a function.
+ *   // SPDX- License- Indentifier: MIT. progma solidity>=0.4.0<0.7.0; contract simle storage{
+ *   unit storedData; function set (unit x) public{storedData =x;
+ *   } function get() public view returns (unit){return storedData;

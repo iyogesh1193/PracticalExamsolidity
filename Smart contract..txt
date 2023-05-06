@@ -1,0 +1,2 @@
+ Qus. 1 . Samart Contracts? 
+    Smart Contracts are simply programs stored on a blockchain that run when predetermined conditions are met.

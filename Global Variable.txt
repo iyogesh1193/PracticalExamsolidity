@@ -1,0 +1,15 @@
+// defining a function void func()
+   {
+    printf("Printing global variabal from
+  func() ->%\n", var1);
+  }
+  int maim()
+{
+   // printing both variablrs 
+   printf("Printing global variable from
+ main() -%\n", var1);
+
+ //calling func()
+
+  return0;
+}
